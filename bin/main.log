@@ -1,0 +1,28 @@
+2019-03-08 13:53:25,649 +0530 [main] DEBUG (TestExcelWriting.java:21) - Workbook Created
+2019-03-08 13:53:25,733 +0530 [main] DEBUG (TestExcelWriting.java:24) - Sheet Created
+2019-03-08 13:53:25,743 +0530 [main] DEBUG (TestExcelWriting.java:27) - Row Created
+2019-03-08 13:53:25,762 +0530 [main] DEBUG (TestExcelWriting.java:30) - Cell Created
+2019-03-08 13:53:25,802 +0530 [main] DEBUG (TestExcelWriting.java:34) - Value set to the cell
+2019-03-08 13:53:26,013 +0530 [main] DEBUG (TestExcelWriting.java:50) - Workbook written in the Excel file
+2019-03-08 13:53:26,013 +0530 [main] DEBUG (TestExcelWriting.java:53) - File Closed
+2019-03-08 13:53:26,021 +0530 [main] DEBUG (TestExcelWriting.java:56) - Workbook Closed
+2019-03-09 18:17:17,363 +0530 [main] DEBUG (DebugErrorLog.java:19) - Opening a file
+2019-03-09 18:17:17,367 +0530 [main] DEBUG (DebugErrorLog.java:22) - Reading a file
+2019-03-09 18:17:17,368 +0530 [main] DEBUG (DebugErrorLog.java:27) - Converting characters to integer
+2019-03-09 18:17:17,368 +0530 [main] DEBUG (DebugErrorLog.java:28) - Printing characters
+2019-03-09 18:17:17,374 +0530 [main] DEBUG (DebugErrorLog.java:57) - closing file
+2019-03-09 19:29:30,447 +0530 [main] DEBUG (DebugErrorLog.java:19) - Opening a file
+2019-03-09 19:29:30,451 +0530 [main] DEBUG (DebugErrorLog.java:22) - Reading a file
+2019-03-09 19:29:30,451 +0530 [main] DEBUG (DebugErrorLog.java:27) - Converting characters to integer
+2019-03-09 19:29:30,452 +0530 [main] DEBUG (DebugErrorLog.java:28) - Printing characters
+2019-03-09 19:29:30,459 +0530 [main] DEBUG (DebugErrorLog.java:57) - closing file
+2019-03-09 19:29:46,764 +0530 [main] DEBUG (DebugErrorLog.java:19) - Opening a file
+2019-03-09 19:29:46,768 +0530 [main] DEBUG (DebugErrorLog.java:22) - Reading a file
+2019-03-09 19:29:46,768 +0530 [main] DEBUG (DebugErrorLog.java:27) - Converting characters to integer
+2019-03-09 19:29:46,769 +0530 [main] DEBUG (DebugErrorLog.java:28) - Printing characters
+2019-03-09 19:29:46,773 +0530 [main] DEBUG (DebugErrorLog.java:57) - closing file
+2019-03-09 19:31:46,764 +0530 [main] DEBUG (DebugErrorLog.java:19) - Opening a file
+2019-03-09 19:31:46,769 +0530 [main] DEBUG (DebugErrorLog.java:22) - Reading a file
+2019-03-09 19:31:46,769 +0530 [main] DEBUG (DebugErrorLog.java:27) - Converting characters to integer
+2019-03-09 19:31:46,769 +0530 [main] DEBUG (DebugErrorLog.java:28) - Printing characters
+2019-03-09 19:31:46,787 +0530 [main] DEBUG (DebugErrorLog.java:57) - closing file

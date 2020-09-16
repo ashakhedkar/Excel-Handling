@@ -1,0 +1,8 @@
+2019-03-09 18:07:38,522 +0530 [main] DEBUG (DebugErrorLog.java:19) - Opening a file
+2019-03-09 18:07:38,526 +0530 [main] DEBUG (DebugErrorLog.java:22) - Reading a file
+2019-03-09 18:07:38,527 +0530 [main] DEBUG (DebugErrorLog.java:27) - Converting characters to integer
+2019-03-09 18:07:38,527 +0530 [main] DEBUG (DebugErrorLog.java:28) - Printing characters
+2019-03-09 18:12:08,817 +0530 [main] DEBUG (DebugErrorLog.java:19) - Opening a file
+2019-03-09 18:12:08,820 +0530 [main] DEBUG (DebugErrorLog.java:22) - Reading a file
+2019-03-09 18:12:08,820 +0530 [main] DEBUG (DebugErrorLog.java:27) - Converting characters to integer
+2019-03-09 18:12:08,821 +0530 [main] DEBUG (DebugErrorLog.java:28) - Printing characters
